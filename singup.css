@@ -1,0 +1,147 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+}
+.a{
+    border:1px solid red;
+    height: 80px;
+    width: 100%;
+
+  
+}
+h1{
+    font-family:'Nove Round',cursive ;
+    text-align: center;
+    font-weight: 10px;
+    color:rgba(0,0,0,0.6);
+    
+}
+#action_title{
+    width:49%;
+    border-radius: 10px;
+    height:8%;
+    border:1px solid rgba(0,0,0,0.4);
+    font-family:'Nove Round',cursive ;
+    text-align: center;
+    font-weight: 70px;
+    color:rgba(0,0,0,0.6);
+    float: left;
+    margin:1;
+    cursor: pointer;
+   
+}
+#t{
+    width:49.3%;
+    height: 8%;
+    border-radius: 10px;
+    border:1px solid rgba(0,0,0,0.4);
+    font-family:'Nove Round',cursive ;
+    text-align: center;
+    font-weight: 40%;
+    color:rgba(0,0,0,0.6);
+    float: left;
+    cursor: pointer;
+   
+   
+    
+}
+h4{
+    font-family:'Nove Round',cursive ;
+    text-align: center;
+    font-weight: 10px;
+    color:rgba(0,0,0,0.6);
+
+}
+
+
+.b{
+    border:1px solid blue;
+    margin-top:1px;
+    height:700px;
+    width: 100%;
+}
+form{
+    width:40%;
+    height:90%;
+    margin:auto ;
+    margin-top:40px;
+    border:1px solid rgba(0,0,0,0.5)
+}
+#email{
+    width:60%;
+    height:30px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border-color: rgba(0,0,0,0.5);
+
+}
+#pass{
+    width:60%;
+    height:30px;
+    border-radius: 5px;
+    border-color: rgba(0,0,0,0.5);
+
+}
+placeholder{
+    font-weight: 200%;
+    color:red;
+}
+button{
+    display: block;
+    margin:0 auto;
+    width:auto260px;
+    border-radius: 30px;
+    color:#fff;
+    font-size:15px;
+}
+.submit{
+    margin-top: 40px;
+    width:35%;
+    height: 30px;
+    margin-bottom:30px;
+    border-radius: 20px;;
+    text-transform: uppercasefont;
+    font-family:'Nunito',sans-serif ;
+    background: -webkit-linear-gradient(left,#757575,#b224ef);
+    cursor: pointer;
+}
+.sumbit.hover{
+    background: -webkit-linear-gradient(left,#b224ef,#7579ff);
+}
+.forget-pass{
+    margin-top:15px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+    color:#0c0101;
+    cursor: pointer;
+}
+.forget-pass:hover{
+    color:red;
+
+
+}
+.social-media ul{
+    list-style: none;
+}
+.social-media ul li{
+    display: inline-block;
+    margin-left: 25%;
+    cursor: pointer;
+}
+.social-media img{
+    width:40px;
+    height:40px;
+}
+#login{
+    
+    height: 53%;
+    width:100%;
+    border:1px solid red;
+}
+#email
+{
+    margin-left: 20%;
+
+}
